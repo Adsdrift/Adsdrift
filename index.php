@@ -239,7 +239,7 @@
     <div class="row">
         <div class="col-xxl-12 reveal2">
             <div class="category__more text-center">
-                <a href="Adsdrift/shop.html" class="category_btn">View All Platforms</a>
+                <a href="Adsdrifts/shop.html" class="category_btn">View All Platforms</a>
             </div>
         </div>
     </div>
