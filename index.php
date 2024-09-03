@@ -52,7 +52,7 @@
                         <a class="nav-link active" href="#">Log In</a>
                     </li>
                     <li class="nav-item mx-2">
-                        <button class="btn btn-success" type="button"><a href="Adsdrift/signup.html" style="text-decoration: none; color: white;">Sign Up</a></button>
+                        <button class="btn btn-success" type="button"><a href="Adsdrifts/signup.html" style="text-decoration: none; color: white;">Sign Up</a></button>
                     </li>
                 </ul>
             </div>
